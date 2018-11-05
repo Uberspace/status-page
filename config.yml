@@ -33,6 +33,7 @@ params:
     - name: neujmin
     - name: kopff
     - name: betelgeuse
+    - name: klemola
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
