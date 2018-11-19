@@ -1,7 +1,4 @@
-# Status Page
+# Uberspace Status Page
 
-Our status page at is.uberspace.online
-
-## adding incidents
-
-Incidents are markdown files in the folder `content/issues`. See the [cstate wiki](https://github.com/cstate/cstate#doing-it-from-the-git-repository) for more information.
+This repository contains the source for our status page at https://is.uberspace.online.
+It is mainly intended to be edited by the team, but PRs are always welcome.
