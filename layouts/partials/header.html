@@ -1,0 +1,17 @@
+<style>
+  .header {
+      background-color: black !important;
+  }
+</style>
+
+<div class="header header--large">
+  <div class="contain contain--more center">
+    <a href="/" class="header__logo">
+      <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}">
+    </a>
+  </div>
+</div>
+
+{{ if $isDown }}
+down, down, down
+{{ end }}
