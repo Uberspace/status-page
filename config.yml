@@ -34,6 +34,8 @@ params:
     - name: kopff
     - name: betelgeuse
     - name: klemola
+    - name: corvus
+    - name: fomalhaut
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
