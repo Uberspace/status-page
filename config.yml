@@ -37,6 +37,8 @@ params:
     - name: clark
     - name: corvus
     - name: fomalhaut
+    - name: acamar
+    - name: kohoutek
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
