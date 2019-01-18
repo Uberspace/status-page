@@ -39,6 +39,7 @@ params:
     - name: fomalhaut
     - name: acamar
     - name: kohoutek
+    - name: borrelly
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
