@@ -2,8 +2,8 @@
 
 title: Degraded MariaDB performance on schuster & ciffreo
 date: 2019-01-19 13:00:00
-resolved: false
-resolvedWhen: 2018-10-17 19:30:00
+resolved: true
+resolvedWhen: 2019-01-19 13:28:00
 # down, disrupted, notice
 severity: disrupted
 # see `config.yml`
