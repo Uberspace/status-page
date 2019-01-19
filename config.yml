@@ -40,6 +40,8 @@ params:
     - name: acamar
     - name: kohoutek
     - name: borrelly
+    - name: schuster
+    - name: ciffreo
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
