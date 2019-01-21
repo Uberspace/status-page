@@ -42,6 +42,8 @@ params:
     - name: borrelly
     - name: schuster
     - name: ciffreo
+    - name: taylor
+    - name: longmore
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
