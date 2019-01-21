@@ -1,8 +1,9 @@
 ---
 
 title: Webserver on clark.uberspace.de down
-date: 2018-12-13 09:46:00
-resolved: false
+date: 2019-01-17 09:46:00
+resolved: true
+resolvedWhen: 2019-01-17 10:46:00
 # down, disrupted, notice
 severity: down
 # see `config.yml`
