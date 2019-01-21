@@ -33,6 +33,15 @@ params:
     - name: neujmin
     - name: kopff
     - name: betelgeuse
+    - name: klemola
+    - name: clark
+    - name: corvus
+    - name: fomalhaut
+    - name: acamar
+    - name: kohoutek
+    - name: borrelly
+    - name: schuster
+    - name: ciffreo
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
