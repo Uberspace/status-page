@@ -2,7 +2,7 @@
 
 title: avior maintenance downtime 
 date: 2019-01-22 23:20:00
-resolved: false
+resolved: true
 resolvedWhen: 2019-01-22 23:47:16
 severity: down
 affected:
