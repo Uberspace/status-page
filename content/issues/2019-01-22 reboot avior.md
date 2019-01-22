@@ -11,4 +11,8 @@ section: issue
 
 ---
 
+avior: maintenance downtime 
+
+---
+
 We are rebooting avior for short maintenance work
