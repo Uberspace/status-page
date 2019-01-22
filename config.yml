@@ -44,6 +44,7 @@ params:
     - name: ciffreo
     - name: taylor
     - name: longmore
+    - name: avior
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
