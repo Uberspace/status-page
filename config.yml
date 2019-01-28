@@ -45,6 +45,7 @@ params:
     - name: taylor
     - name: longmore
     - name: avior
+    - name: vela
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
