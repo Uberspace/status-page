@@ -2,7 +2,7 @@ title: Is Uberspace online?
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: /
+baseURL: https://is.uberspace.online
 params:
   alwaysKeepBrandColor: false
   autoRefresh: true
