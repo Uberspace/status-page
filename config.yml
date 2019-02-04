@@ -46,6 +46,8 @@ params:
     - name: longmore
     - name: avior
     - name: vela
+    - name: vega
+    - name: delphinus
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
