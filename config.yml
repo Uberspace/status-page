@@ -3,8 +3,6 @@ buildFuture: true
 defaultContentLanguage: en
 languageCode: en
 baseURL: https://is.uberspace.online
-dateFormat: January 2, 2006 at 15:04
-shortDateFormat: 15:04 — Jan 2
 params:
   alwaysKeepBrandColor: false
   autoRefresh: true
