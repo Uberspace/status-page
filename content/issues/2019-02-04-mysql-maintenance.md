@@ -1,6 +1,6 @@
 ---
 
-title: vega, delphinus: MySQL maintenance
+title: MySQL maintenance on vega and delphinus
 date: 2019-02-04 14:00:00
 resolved: false
 resolvedWhen: 2019-02-04 14:30:00
