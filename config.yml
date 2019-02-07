@@ -48,6 +48,7 @@ params:
     - name: vela
     - name: vega
     - name: delphinus
+    - name: diphda
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
