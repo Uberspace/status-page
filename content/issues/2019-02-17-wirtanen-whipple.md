@@ -2,8 +2,8 @@
 
 title: wirtanen & whipple down
 date: 2019-02-17 12:05:00
-resolved: false
-resolvedWhen: 2018-10-17 19:30:00
+resolved: true
+resolvedWhen: 2019-02-17 12:34:00
 # down, disrupted, notice
 severity: down
 # see `config.yml`
@@ -19,3 +19,7 @@ wirtanen & whipple down
 ---
 
 We're investigating an outage on wirtanen & whipple.
+
+---
+
+Both hosts have been rebooted with more RAM and are up and running again.
