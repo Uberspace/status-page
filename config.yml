@@ -49,6 +49,8 @@ params:
     - name: vega
     - name: delphinus
     - name: diphda
+    - name: wirtanen
+    - name: whipple
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
