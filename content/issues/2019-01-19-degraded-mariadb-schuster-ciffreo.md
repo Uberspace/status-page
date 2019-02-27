@@ -1,6 +1,6 @@
 ---
 
-title: Degraded MariaDB performance on schuster & ciffreo
+title: Resolved - Degraded MariaDB performance on schuster & ciffreo
 date: 2019-01-19 13:00:00
 resolved: true
 resolvedWhen: 2019-01-19 13:28:00
