@@ -1,6 +1,6 @@
 ---
 
-title: Investigating - HTTP(S) outage on diphda
+title: Resolved - HTTP(S) outage on diphda
 date: 2019-02-07 22:46:00
 resolved: true
 resolvedWhen: 2019-02-07 23:21:00
