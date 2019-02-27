@@ -1,6 +1,6 @@
 ---
 section: issue
-title: hardware failure
+title: Resolved - hardware failure
 date: 2018-12-11T14:00:00.000Z
 resolved: true
 resolvedWhen: 2018-12-11T14:45:00.000Z
