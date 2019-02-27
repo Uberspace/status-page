@@ -1,6 +1,6 @@
 ---
 
-title: wirtanen & whipple down
+title: Resolved - wirtanen & whipple down
 date: 2019-02-17 12:05:00
 resolved: true
 resolvedWhen: 2019-02-17 12:34:00
