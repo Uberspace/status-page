@@ -1,6 +1,6 @@
 ---
 
-title: vega, corvus, fomalhaut down
+title: Investigating - vega, corvus, fomalhaut down
 date: 2019-02-27 01:23:00
 resolved: false
 resolvedWhen: 2019-02-27 02:00:00
@@ -15,7 +15,7 @@ section: issue
 
 ---
 
-vega, corvus, fomalhaut down
+Investigating - vega, corvus, fomalhaut down
 
 ---
 
