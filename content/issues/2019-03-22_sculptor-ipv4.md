@@ -13,7 +13,7 @@ section: issue
 
 ---
 
-ipv4 connection issues on scupltor
+Users on some internet service providers are currently experiencing connection issues via IPv4. IPv6 is not affected. We are working on pinning the exact problem down and will follow up with details.
 
 ---
 
