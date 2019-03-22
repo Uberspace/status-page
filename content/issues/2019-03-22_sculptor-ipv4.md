@@ -2,7 +2,7 @@
 
 title: sculptor - IPv4 connection issues
 date: 2019-03-15 13:00:00
-resolved: false
+resolved: true
 resolvedWhen: 2019-03-23 13:28:00
 # down, disrupted, notice
 severity: disrupted
