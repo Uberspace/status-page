@@ -45,6 +45,7 @@ params:
     - name: longmore
     - name: neujmin
     - name: olbers
+    - name: sabic
     - name: schuster
     - name: sculptor
     - name: taylor
