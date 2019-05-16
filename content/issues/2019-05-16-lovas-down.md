@@ -2,7 +2,7 @@
 section: issue
 title: lovas down
 date: 2019-05-16T14:30:00.000Z
-resolved: false
+resolved: true
 resolvedWhen: 2019-05-16T14:52:05.522Z
 affected:
   - lovas
