@@ -2,7 +2,7 @@ title: Is Uberspace online?
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://is.uberspace.online
+baseURL: 'https://is.uberspace.online'
 params:
   alwaysKeepBrandColor: false
   autoRefresh: true
@@ -14,15 +14,18 @@ params:
       name: Privacy
     - link: 'https://twitter.com/ubernauten'
       name: Twitter
+  dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
   disrupted: FF8C00
   down: DC143C
+  googleAnalytics: UA-00000000-1
   incidentPostsPerPage: 3
   logo: /logo.svg
   notice: 708090
   ok: 228B22
+  shortDateFormat: '15:04 — Jan 2'
   systems:
     - description: 'data center uvensys (185.26.156.0/25), Uberspace 6 and 7'
       name: FRA3
@@ -53,6 +56,11 @@ params:
     - name: vela
     - name: whipple
     - name: wirtanen
+    - name: shoemaker
+    - name: mrkos
+    - name: elst
+    - name: devico
+    - name: pizarro
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
