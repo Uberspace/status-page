@@ -2,7 +2,7 @@
 section: issue
 title: pizarro not reachable
 date: 2019-05-16T10:00:00.000Z
-resolved: false
+resolved: true
 resolvedWhen: 2019-05-16T10:32:46.654Z
 affected:
   - pizarro
