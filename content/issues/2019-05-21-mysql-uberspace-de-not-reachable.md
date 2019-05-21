@@ -2,8 +2,8 @@
 section: issue
 title: mysql.uberspace.de not reachable
 date: 2019-05-21T18:20:00.000Z
-resolved: false
-resolvedWhen: 2019-05-21T18:33:07.008Z
+resolved: true
+resolvedWhen: 2019-05-21T18:40:00.000Z
 affected:
   - mysql.uberspace.de
 severity: down
