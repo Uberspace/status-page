@@ -2,7 +2,7 @@
 section: issue
 title: Mail access via IMAP not working
 date: 2019-06-20T22:20:47.194Z
-resolved: false
+resolved: true
 resolvedWhen: 2019-06-21T07:33:47.217Z
 affected:
   - uberspace6
