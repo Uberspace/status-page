@@ -2,7 +2,7 @@
 section: issue
 title: reboots due to TCP SACK PANIC kernel vulnerabilities
 date: 2019-06-21T09:29:59.181Z
-resolved: false
+resolved: true
 resolvedWhen: 2019-06-21T09:29:59.202Z
 severity: notice
 ---
