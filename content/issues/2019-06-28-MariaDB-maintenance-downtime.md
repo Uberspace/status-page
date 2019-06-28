@@ -3,7 +3,7 @@ section: issue
 title: MariaDB  maintenance downtime
 date: 2019-06-28T23:00:00.000Z
 resolved: true
-resolvedWhen: 2019-06-29T23:58:00.000Z
+resolvedWhen: 2019-06-28T23:58:00.000Z
 affected:
   - Uberspace 6
 severity: disrupted
