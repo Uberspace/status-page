@@ -11,7 +11,7 @@ section: issue
 
 ---
 
-MariaDB on Uberspace 6: maintenance downtime on 2019/06/28 from 23:00 o'clock
+MariaDB on Uberspace 6: maintenance downtime on 2019/06/28 from 11:00 PM (MESZ)
 
 
 ---
