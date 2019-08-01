@@ -2,8 +2,8 @@
 section: issue
 title: Webserver unavailable on helin & kushida
 date: 2019-08-01T19:00:00.000Z
-resolved: false
-resolvedWhen: 2019-08-01T18:33:20.320Z
+resolved: true
+resolvedWhen: 2019-08-01T22:28:00.000Z
 affected:
   - helin.uberspace.de
   - kushida.uberspace.de
