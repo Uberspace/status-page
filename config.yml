@@ -61,6 +61,8 @@ params:
     - name: elst
     - name: devico
     - name: pizarro
+    - name: helin
+    - name: kushida
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
