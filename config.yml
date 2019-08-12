@@ -31,38 +31,6 @@ params:
       name: FRA3
     - description: 'data center rh-tec (95.143.172.0/24), Uberspace 6'
       name: FRA2
-    - name: acamar
-    - name: avior
-    - name: betelgeuse
-    - name: borrelly
-    - name: ciffreo
-    - name: clark
-    - name: corvus
-    - name: delphinus
-    - name: diphda
-    - name: encke
-    - name: fomalhaut
-    - name: klemola
-    - name: kohoutek
-    - name: kopff
-    - name: longmore
-    - name: neujmin
-    - name: olbers
-    - name: sabic
-    - name: schuster
-    - name: sculptor
-    - name: taylor
-    - name: vega
-    - name: vela
-    - name: whipple
-    - name: wirtanen
-    - name: shoemaker
-    - name: mrkos
-    - name: elst
-    - name: devico
-    - name: pizarro
-    - name: helin
-    - name: kushida
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
