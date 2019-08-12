@@ -2,7 +2,7 @@
 section: issue
 title: mariadb on longmore down
 date: 2019-08-12T20:20:15.087Z
-resolved: false
+resolved: true
 resolvedWhen: 2019-08-12T20:30:15.111Z
 affected:
   - longmore
