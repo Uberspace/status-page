@@ -2,7 +2,7 @@
 section: issue
 title: uberspace.de offline
 date: 2019-09-02T09:03:21.774Z
-resolved: false
+resolved: true
 resolvedWhen: 2019-09-02T09:03:21.794Z
 affected:
   - website
