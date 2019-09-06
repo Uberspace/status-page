@@ -3,7 +3,7 @@ section: issue
 title: Packet loss
 date: 2019-09-05T00:00:19.700Z
 resolved: true
-resolvedWhen: 2019-09-05T12:00:19.724Z
+resolvedWhen: 2019-09-05T18:20:19.724Z
 affected:
   - FRA3
 severity: disrupted
