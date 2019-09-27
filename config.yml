@@ -2,19 +2,19 @@ title: Is Uberspace online?
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: 'https://is.uberspace.online'
+baseURL: "https://is.uberspace.online"
 params:
   alwaysKeepBrandColor: false
   autoRefresh: true
   brand: 181818
   customTabs:
-    - link: 'https://uberspace.de/imprint'
+    - link: "https://uberspace.de/imprint"
       name: Legal Notice
-    - link: 'https://uberspace.de/privacy'
+    - link: "https://uberspace.de/privacy"
       name: Privacy
-    - link: 'https://twitter.com/ubernauten'
+    - link: "https://twitter.com/ubernauten"
       name: Twitter
-  dateFormat: 'January 2, 2006 at 3:04 PM'
+  dateFormat: "January 2, 2006 at 3:04 PM"
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
@@ -25,14 +25,15 @@ params:
   logo: /logo.svg
   notice: 708090
   ok: 228B22
-  shortDateFormat: '15:04 — Jan 2'
+  shortDateFormat: "15:04 — Jan 2"
   systems:
-    - description: 'data center uvensys (185.26.156.0/25), Uberspace 6 and 7'
+    - description: "data center uvensys (185.26.156.0/25), Uberspace 6 and 7"
       name: FRA3
-    - description: 'data center rh-tec (95.143.172.0/24), Uberspace 6'
+    - description: "data center rh-tec (95.143.172.0/24), Uberspace 6"
       name: FRA2
   useLargeHeaderDesign: true
   useLogo: true
+  enableCustomHTML: true
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
