@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Packet loss at site FRA3
-date: 2019-10-11T18:02:00.000Z
+date: 2019-10-11T17:32:00.000Z
 resolved: false
 resolvedWhen: 2019-10-11T16:02:10.409Z
 affected:
