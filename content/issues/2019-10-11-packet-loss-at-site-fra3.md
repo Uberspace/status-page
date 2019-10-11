@@ -8,4 +8,4 @@ affected:
   - FRA3
 severity: disrupted
 ---
-_Investigating_ - We are investigating packet loss at FRA3 site
+_Investigating_ - We are investigating packet loss at site FRA3 (uvensys).
