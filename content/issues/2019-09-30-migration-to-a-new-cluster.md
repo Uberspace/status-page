@@ -1,9 +1,9 @@
 ---
 section: issue
 title: migration to a new cluster
-date: 2019-11-07T08:00:52.476Z
+date: 2019-11-07T10:00:52.476Z
 resolved: false
-resolvedWhen: 2019-11-07T10:00:00.000Z
+resolvedWhen: 2019-11-07T12:00:00.000Z
 affected:
   - devico
   - shoemaker
