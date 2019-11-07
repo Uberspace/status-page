@@ -8,6 +8,6 @@ affected:
   - devico
   - shoemaker
   - pizarro
-severity: notice
+severity: down
 ---
 We're migrating our services and servers to a new hardware cluster, there will be a downtime of approximately 60 minutes for each server.
