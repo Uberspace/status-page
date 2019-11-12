@@ -1,7 +1,7 @@
 ---
 
 title: MariaDB on longmore down
-date: 2019-11-12 10:10:00
+date: 2019-11-12 09:10:00
 resolved: false
 resolvedWhen:
 # down, disrupted, notice
