@@ -1,24 +1,15 @@
 ---
-
-title: MariaDB on wolf, whipple, chiron and johnsone  down
-date: 2019-11-12 09:10:00
-resolved: false
-resolvedWhen:
-# down, disrupted, notice
-severity: disrupted
-# see `config.yml`
-affected:
-    - wolf 	
-    - whipple
-    - chiron 
-    - johnson
-
 section: issue
-
+title: 'MariaDB on wolf, whipple, chiron and johnsone  down'
+date: 2019-11-12T09:10:00.000Z
+resolved: false
+affected:
+  - wolf
+  - whipple
+  - chiron
+  - johnson
+severity: disrupted
 ---
+## MariaDB on wolf, whipple, chiron and johnsone down
 
-MariaDB on wolf, whipple, chiron and johnsone down
----
-
-Around 09:10 MariaDB on some hosts  has been crashed. We are currently investigating.
- 
+Around 09:10 MariaDB on some hosts crashed. We are currently investigating.
