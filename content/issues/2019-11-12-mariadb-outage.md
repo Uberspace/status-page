@@ -5,7 +5,7 @@ date: 2019-11-12 09:10:00
 resolved: false
 resolvedWhen:
 # down, disrupted, notice
-severity: down
+severity: disrupted
 # see `config.yml`
 affected:
     - wolf 	
