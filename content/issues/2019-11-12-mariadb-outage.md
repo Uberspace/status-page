@@ -1,6 +1,6 @@
 ---
 
-title: MariaDB on longmore down
+title: MariaDB on wolf, whipple, chiron and johnsone  down
 date: 2019-11-12 09:10:00
 resolved: false
 resolvedWhen:
