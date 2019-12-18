@@ -6,6 +6,6 @@ resolved: false
 resolvedWhen: 2019-12-18T17:00:00.000Z
 affected:
   - mysql.uberspace.de
-severity: down
+severity: degraded
 ---
-_Investigating_ - Servcie is not rechable, we're working on it.
+Servcie is rechable, but warnings may show up temporarily.
