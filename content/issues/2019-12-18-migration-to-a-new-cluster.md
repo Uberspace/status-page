@@ -2,8 +2,8 @@
 section: issue
 title: migration to a new cluster
 date: 2019-12-18T15:00:00.000Z
-resolved: false
-resolvedWhen: 2019-12-18T17:00:00.000Z
+resolved: true
+resolvedWhen: 2019-12-19T21:45:00.000Z
 affected:
   - mueller
   - spitaler
