@@ -2,7 +2,7 @@
 section: issue
 title: migration to a new cluster
 date: 2020-01-15T111:00:00.000Z
-resolved: true
+resolved: false
 resolvedWhen: 2020-01-16T11:00:00.000Z
 affected:
   - schuster
