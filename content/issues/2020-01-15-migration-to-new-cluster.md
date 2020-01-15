@@ -2,8 +2,8 @@
 section: issue
 title: migration to a new cluster
 date: 2020-01-15T111:00:00.000Z
-resolved: false
-resolvedWhen: 2020-01-16T11:00:00.000Z
+resolved: true
+resolvedWhen: 2020-01-15T14:32:00.000Z
 affected:
   - schuster
   - maury
