@@ -2,7 +2,7 @@
 section: issue
 title: cluster update failure
 date: 2020-02-12T15:38:40.370Z
-resolved: false
+resolved: true
 resolvedWhen: 2020-02-12T13:38:00.000Z
 affected:
   - Uberspace 7
