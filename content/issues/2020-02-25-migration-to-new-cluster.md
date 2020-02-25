@@ -1,9 +1,9 @@
 ---
 section: issue
 title: migration to a new cluster
-date: 2020-02-25T11:00:00.000Z
-resolved: false
-resolvedWhen: 2020-02-25T13:00:00.000Z
+date: 2020-02-25T11:10:00.000Z
+resolved: true
+resolvedWhen: 2020-02-25T12:18:00.000Z
 affected:
   - tritton
 severity: notice
