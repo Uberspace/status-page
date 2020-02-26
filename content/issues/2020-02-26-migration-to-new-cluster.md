@@ -2,8 +2,8 @@
 section: issue
 title: migration to a new cluster
 date: 2020-02-26T16:00:00.000Z
-resolved: false
-resolvedWhen: 2020-02-26T18:00:00.000Z
+resolved: true
+resolvedWhen: 2020-02-26T17:43:00.000Z
 affected:
   - sanguin
   - machholz
