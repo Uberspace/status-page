@@ -2,8 +2,8 @@
 section: issue
 title: migration to a new cluster
 date: 2020-03-19T11:00:00.000Z
-resolved: false
-resolvedWhen: 2020-03-19T19:00:00.000Z
+resolved: true
+resolvedWhen: 2020-03-19T14:00:00.000Z
 affected:
   - bus
   - giclas
