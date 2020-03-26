@@ -1,9 +1,9 @@
 ---
 section: issue
 title: migration to a new cluster
-date: 2020-03-26T15:30:00.000Z
-resolved: false
-resolvedWhen: 2020-03-26T18:00:00.000Z
+date: 2020-03-26T16:30:00.000Z
+resolved: true
+resolvedWhen: 2020-03-26T20:00:00.000Z
 affected:
   - taylor
   - kojima
